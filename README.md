@@ -78,7 +78,9 @@ After reviewing your request, we will reply by email with the cloud-storage down
 
 **TrafficInstruct: A Multi-Task Network Traffic Dataset and Benchmark for Instruction Tuning**
 
-Zhengdao Li, Hui Wen, Zixuan Wan, Weifeng Zhang, Yan Wu, Nenghai Yu, Weiming Zhang, and Kejiang Chen.
+Zhengdao Li, Hui Wen, Zixuan Wan, Weifeng Zhang, Yan Wu, Nenghai Yu, Weiming Zhang, and Kejiang Chen<sup>*</sup>.
+
+<sup>*</sup>Corresponding author.
 
 **If you use TrafficInstruct in a publication, you are required to cite our paper.**
 
