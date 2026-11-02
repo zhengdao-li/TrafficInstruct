@@ -78,7 +78,7 @@ After reviewing your request, we will reply by email with the cloud-storage down
 
 **TrafficInstruct: A Multi-Task Network Traffic Dataset and Benchmark for Instruction Tuning**
 
-Zhengdao Li, Hui Wen, Zixuan Wan, Weifeng Zhang, Yan Wu, Nenghai Yu, Weiming Zhang, and Kejiang Chen<sup>*</sup>.
+Zhengdao Li, Hui Wen, Zixuan Wan, Weifeng Zhang, Yan Wu, Benlong Wu, Nenghai Yu, Weiming Zhang, and Kejiang Chen<sup>*</sup>.
 
 <sup>*</sup>Corresponding author.
 
@@ -87,7 +87,7 @@ Zhengdao Li, Hui Wen, Zixuan Wan, Weifeng Zhang, Yan Wu, Nenghai Yu, Weiming Zha
 ```bibtex
 @misc{li2026trafficinstruct,
   title  = {TrafficInstruct: A Multi-Task Network Traffic Dataset and Benchmark for Instruction Tuning},
-  author = {Li, Zhengdao and Wen, Hui and Wan, Zixuan and Zhang, Weifeng and Wu, Yan and Yu, Nenghai and Zhang, Weiming and Chen, Kejiang},
+  author = {Li, Zhengdao and Wen, Hui and Wan, Zixuan and Zhang, Weifeng and Wu, Yan and Wu, Benlong and Yu, Nenghai and Zhang, Weiming and Chen, Kejiang},
   year   = {2026}
 }
 ```
